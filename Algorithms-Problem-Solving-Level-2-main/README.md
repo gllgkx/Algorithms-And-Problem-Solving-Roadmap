@@ -1,7 +1,7 @@
 # Algorithms & Problem Solving - Level 2 Solutions
 
 ![C++](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 ![Repo Size](https://img.shields.io/github/repo-size/Mohamed-Abdelrady-1/Algorithms-Problem-Solving-Level-2?style=for-the-badge)
 
 This repository contains my solutions for the **Algorithms & Problem Solving Level 2 Course**.
@@ -54,9 +54,10 @@ A collection of custom-built applications to bridge the gap between solving prob
 * **Status:** [![Completed](https://img.shields.io/badge/Status-Completed-success?style=flat-square)](./06_Array_Applications_Review)
 
 ### 7. Set 7: Final Course Projects
-*(Upcoming)* The final capstone projects implementing complete game logic using the custom library.
+The final capstone projects implement complete game logic using the custom library.
 * **Key Projects:** Stone-Paper-Scissor Game, Math Quiz Game.
-* **Status:** [![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square)](./07_Final_Course_Projects)
+* **Concepts:** `Struct Composition`, `State Management`, `Dynamic UI`.
+* **Status:** [![Completed](https://img.shields.io/badge/Status-Completed-success?style=flat-square)](./07_Final_Course_Projects)
 
 ---
 
